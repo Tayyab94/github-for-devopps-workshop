@@ -1,5 +1,4 @@
 """This is the Rock - Paper - Scissors game."""
-
 import random
 
 choices = ("r", "p", "s")
