@@ -10,12 +10,10 @@ winning_combinations = {
 }
 while True:
     user_choice = input("Rock, Paper or scissors? (r/p/s) : ").lower()
-
     if user_choice not in choices:
         print("Invalid Choice!")
         continue
     computer_choice= random.choice(choices)
-
     print(f"YOu Choose :{user_choice}")
     print(f"Computer Choose: {computer_choice}")
     if user_choice ==computer_choice:
