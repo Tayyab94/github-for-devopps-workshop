@@ -1,8 +1,6 @@
 def user_name():
 
-    password = "Tayab"
-
-    return password
+    return "HEllo"
 
 
 user_name()
