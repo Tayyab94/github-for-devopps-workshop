@@ -1,4 +1,13 @@
 
+"""
+testi.py
+
+This module contains utility functions for arithmetic operations.
+
+Functions:
+- add_numbers: Adds two numbers and returns the result.
+- multiply_numbers: Multiplies two numbers and returns the result.
+"""
 
 def user_name():
     """ This module provides functions for testing various components.  
