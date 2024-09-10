@@ -57,3 +57,12 @@
   81 git remote -v
   82 git push origin master
   83 histiory
+
+
+
+    267  git commit -m "sad"
+
+    ( if you have accidently run the Commit command. but you want to move back 1 step then run this command)
+  268  git reset --soft HEAD~1   
+  269  git status
+  270  history
