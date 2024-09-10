@@ -1,0 +1,59 @@
+ 10 git init
+  11 dir
+  18 git status
+  19 rm .\testing.py
+  20 git status
+  22 git branch
+  23 git add .\testing.py
+  24 git status
+  25 git rm --chached .\testing.py
+  26 git rm --chached
+  27 git status
+  28 git rm --cached
+  29 git rm --cached .\testing.py
+  30 git status
+  31 git status
+  32 git add .
+  33 git status
+  34 git rm --cached
+  36 git reset
+  38 git status
+  39 git add .
+  40 git commit -m "2 files added"
+  41 git status
+  42 git restore testi.py
+  43 git status
+   history
+
+
+
+     56 git commit -m "added gitCommend"
+  57 git remote add origin https://github.com/Tayyab94/github-for-dev-workshop.git
+  58 git remove -v
+  59 git remote -v
+  60 git branch -M main
+  61 git status
+  62 git init
+  63 git status
+  64 git add .
+  65 git status
+  66 git rm --cached testi.py
+  67 git add .
+  68 git commit -m "all files added"
+  69 git status
+  70 git remote add origin https://github.com/Tayyab94/github-for-devopps-workshop.git
+  71 git branch
+  72 git push origin master
+  73 git init
+  74 git status
+  75 git add .
+  76 git commit -m "3 files added"
+  77 git remote add origin https://github.com/Tayyab94/github-for-devopps-workshop.git
+  78 git remote -v
+  79 git remote -v
+
+                                // this is the token that we have created token in the github
+  80 git remote set-url origin https://(Git token)@github.com/Tayyab94/github-for-devopps-workshop.git
+  81 git remote -v
+  82 git push origin master
+  83 histiory
